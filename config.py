@@ -21,8 +21,8 @@ API_HASH = os.environ.get("API_HASH", "f61fa0adcd48b6bec464b6866fbd2822")
 BAN = int(os.environ.get("BAN", "1198543450")) #Owner user id
 OWNER = os.environ.get("OWNER", "hey_ronnie") #Owner username
 OWNER_ID = int(os.environ.get("OWNER_ID", "6376864232")) #Owner user id
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "ULTROIDOFFICIAL_CHAT") # WITHOUR @
-CHANNEL = os.environ.get("CHANNEL", "ULTROID_OFFICIAL") # WITHOUR @
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "SanskariiLinks") # WITHOUR @
+CHANNEL = os.environ.get("CHANNEL", "SanskariiLinks") # WITHOUR @
 
 
 #Your db channel Id
