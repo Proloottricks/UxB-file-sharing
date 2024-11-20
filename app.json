@@ -53,13 +53,13 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
-      "required": false
+      "value": "True",
+      "required": true
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents doesn't forward else False",
-      "value": "False",
-      "required": false
+      "value": "True",
+      "required": true
     }
   },
   "buildpacks": [
