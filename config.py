@@ -35,7 +35,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002154334233"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sewifix882:bC2XGzdeCNlJtMED@cluster0.ak9ns.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://browniekrollpwia1387:<j2cIxeHeZf5Z9Mn7>@cluster0.ezpzh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "aquib")
 
 #force sub channel id, if you want enable force sub
